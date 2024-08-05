@@ -37,7 +37,8 @@ Presentations
 ======
 1. Jun 17, 2024, [Transchromatic Generalized Characters](https://Wuyf19970105.github.io/files/Transchromatic_Generalized_Characters.pdf), Graduated topology seminar at SUSTech.
 1. Apr 9, 2024, [Pipe Rings and Pipe Formal Groups.pdf](https://Wuyf19970105.github.io/files/Pipe_Rings_and_Pipe_Formal_Groups.pdf), Graduated topology seminar at SUSTech.
-2. Nov 16, 2023, 
+2. Nov 16, 2023, [Modular Interpretations of Hecke Operators](https://Wuyf19970105.github.io/files/Modular Interpretations of Hecke Operators.pdf)
+3. Oct 17, 2023, 
 
 Teaching
 ======
