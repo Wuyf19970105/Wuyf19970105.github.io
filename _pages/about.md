@@ -36,7 +36,8 @@ For site content, there is one markdown file for each type of content, which are
 Presentations
 ======
 1. Jun 17, 2024, [Transchromatic Generalized Characters](https://Wuyf19970105.github.io/files/Transchromatic_Generalized_Characters.pdf), Graduated topology seminar at SUSTech.
-1. [Pipe Rings and Pipe Formal Groups.pdf](https://Wuyf19970105.github.io/files/Pipe_Rings_and_Pipe_Formal_Groups.pdf)
+1. Apr 9, 2024, [Pipe Rings and Pipe Formal Groups.pdf](https://Wuyf19970105.github.io/files/Pipe_Rings_and_Pipe_Formal_Groups.pdf), Graduated topology seminar at SUSTech.
+2. Nov 16, 2023, 
 
 Teaching
 ======
