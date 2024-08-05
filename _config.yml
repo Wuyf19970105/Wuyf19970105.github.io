@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Yifan Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A doctoral student in math"
+  location         : "Shenzhen, China"
+  employer         : "Southern University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "12131236@mail.sustech.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
