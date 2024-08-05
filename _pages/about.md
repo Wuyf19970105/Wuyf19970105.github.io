@@ -37,8 +37,11 @@ Presentations
 ======
 1. Jun 17, 2024, [Transchromatic Generalized Characters](https://Wuyf19970105.github.io/files/Transchromatic_Generalized_Characters.pdf), Graduated topology seminar at SUSTech.
 1. Apr 9, 2024, [Pipe Rings and Pipe Formal Groups.pdf](https://Wuyf19970105.github.io/files/Pipe_Rings_and_Pipe_Formal_Groups.pdf), Graduated topology seminar at SUSTech.
-2. Nov 16, 2023, [Modular Interpretations of Hecke Operators](https://Wuyf19970105.github.io/files/Modular Interpretations of Hecke Operators.pdf)
-3. Oct 17, 2023, 
+2. Nov 16, 2023, [Modular Interpretations of Hecke Operators](https://Wuyf19970105.github.io/files/Modular_Interpretations_of_Hecke_Operators.pdf), Graduated topology seminar at SUSTech.
+4. Oct 17, 2023, [Dyer Lashof Theory and Algebras](https://Wuyf19970105.github.io/files/Dyer_Lashof_Theory_and_Algebras.pdf), Graduated topology seminar at SUSTech.
+5. Sep 29, 2023, [Review of Modular Forms and Introduction to Modular Curves](https://Wuyf19970105.github.io/files/Review_of_Modular_Forms_and_Introduction_to_Modular_Curves.pdf), Graduated topology seminar at SUSTech.
+6. Sep 27, 2022, [Introduction to Cobordism and Thom Spectra](https://Wuyf19970105.github.io/files/Pontrjagin-Thom.pdf), Graduated topology seminar at SUSTech.
+7. Jan 12, 2021, [Persistent Homology in Time Series Analysis and its Application to Wheeze Detection](https://Wuyf19970105.github.io/files/TDA.pdf), Applied and computational topology seminar at SUSTech.
 
 Teaching
 ======
