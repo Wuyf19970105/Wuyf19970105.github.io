@@ -21,7 +21,7 @@ repository               : "Wuyf19970105/Wuyf19970105.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "123.png"
+  avatar           : "abc.png"
   name             : "Yifan Wu"
   pronouns         : # example: "she/her"  
   bio              : "A doctoral student in math"
