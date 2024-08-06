@@ -17,8 +17,7 @@ since they play crucial roles both conceptually and computationally when the chr
 Besides, I'm interested the language of infinity categories and higher algebra
 and applied algebraic topology, such as topological data analysis as well.
 
-A sketch of me :)
-
+A sketch of me :)<br>
 ![A sketch of me](/images/sketch1.jpg)
 
 Education
@@ -62,8 +61,8 @@ Teaching
 * Teaching Assistant for MA113(Linear Algebra), SUSTech, Fall 2022.
 * Grader for MAT8024(Differential Manifolds), SUSTech, Fall 2021.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/bm.jpg)
+A photo of my guitar performance<br>
+![Editing a markdown file for a talk](/images/bm1.jpg)
 
 
 
