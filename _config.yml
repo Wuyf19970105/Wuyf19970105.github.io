@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "abc.png"
   name             : "Yifan Wu"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "A doctoral student in math"
   location         : "Shenzhen, China"
   employer         : "Southern University of Science and <br>Technology"
