@@ -18,7 +18,7 @@ Besides, I'm interested the language of infinity categories and higher algebra
 and applied algebraic topology, such as topological data analysis as well.
 
 A sketch of me :)<br>
-![A sketch of me](/images/sketch1.jpg)
+<div align=center>![A sketch of me](/images/sketch1.jpg)
 
 Education
 ======
