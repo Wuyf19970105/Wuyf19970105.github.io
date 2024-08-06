@@ -10,6 +10,10 @@ redirect_from:
 I am a Ph.D. student in math at [Southern University of Science and Technology](https://math.sustech.edu.cn/?lang=en) in Shenzhen, China. 
 My advisor is [Yifei Zhu](https://yifeizhu.github.io/).
 
+My research interests are in algebraic topology and its connections with other fields. Specifically, I'm interested in chromatic homotopy theory, especially the 
+transchromatic phenomenons and their interpretations in terms of formal groups and p-divisible groups. Besides, I also take an interest in elliptic curves and modular forms,
+since they play crucial roles both conceptually and computationally when the chromatic height is less than 2.
+
 Education
 ======
 * **Southern University of Science and Technology**, Shenzhen, China  
