@@ -62,7 +62,7 @@ Teaching
 * Grader for MAT8024(Differential Manifolds), SUSTech, Fall 2021.
 
 A photo of my guitar performance<br>
-![Editing a markdown file for a talk](/images/bm1.jpg)
+![Editing a markdown file for a talk](/images/bm1.jpg#pic_center)
 
 
 
