@@ -17,6 +17,8 @@ since they play crucial roles both conceptually and computationally when the chr
 Besides, I'm interested the language of infinity categories and higher algebra
 and applied algebraic topology, such as topological data analysis as well.
 
+A [sketch of me](/images/sketch.png)
+
 Education
 ======
 * **Southern University of Science and Technology**, Shenzhen, China  
