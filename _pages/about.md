@@ -12,8 +12,10 @@ My advisor is [Yifei Zhu](https://yifeizhu.github.io/).
 
 My research interests are in algebraic topology and its connections with other fields. Specifically, I'm interested in chromatic homotopy theory, especially the 
 transchromatic phenomenons and their interpretations in terms of formal groups and p-divisible groups. I also take an interest in elliptic curves and modular forms,
-since they play crucial roles both conceptually and computationally when the chromatic height is less than 2. Besides, I'm interested the language of infinity categories and higher algebra
-and applied algebraic topology, such as topological data analysis.
+since they play crucial roles both conceptually and computationally when the chromatic height is less than 2.
+
+Besides, I'm interested the language of infinity categories and higher algebra
+and applied algebraic topology, such as topological data analysis as well.
 
 Education
 ======
