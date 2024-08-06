@@ -63,7 +63,7 @@ Teaching
 * Grader for MAT8024(Differential Manifolds), SUSTech, Fall 2021.
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/bm.jpg)
 
 
 
