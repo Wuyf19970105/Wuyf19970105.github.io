@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar-1.png"
-  name             : "    Yifan Wu"
+  avatar           : " "
+  name             : "Yifan Wu"
   pronouns         : # example: "she/her"  
   bio              : "A doctoral student in math"
   location         : "Shenzhen, China"
