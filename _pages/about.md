@@ -15,7 +15,7 @@ transchromatic phenomenons and their interpretations in terms of formal groups a
 since they play crucial roles both conceptually and computationally when the chromatic height is less than 2.
 
 Besides, I'm interested in the language of infinity categories and higher algebra
-and applied algebraic topology, such as topological data analysis.
+and applied algebraic topology as well, such as topological data analysis.
 
 A sketch of me :)<br>
 ![A sketch of me](/images/sketch1.jpg)
