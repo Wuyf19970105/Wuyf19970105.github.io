@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifan Wu | Math"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
