@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yifan Wu | Math"
 title_separator          : "-"
-name                     : &name "Wuyf19970105"
+name                     : &name "Yifan Wu | Math"
 description              : &description "Yifan Wu | Math"
 url                      : https://Wuyf19970105.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
