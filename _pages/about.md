@@ -14,8 +14,8 @@ My research interests are in algebraic topology and its connections with other f
 transchromatic phenomenons and their interpretations in terms of formal groups and p-divisible groups. I also take an interest in elliptic curves and modular forms,
 since they play crucial roles both conceptually and computationally when the chromatic height is less than 2.
 
-Besides, I'm interested the language of infinity categories and higher algebra
-and applied algebraic topology, such as topological data analysis as well.
+Besides, I'm interested in the language of infinity categories and higher algebra
+and applied algebraic topology, such as topological data analysis.
 
 A sketch of me :)<br>
 ![A sketch of me](/images/sketch1.jpg)
