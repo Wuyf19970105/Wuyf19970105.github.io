@@ -44,6 +44,7 @@ Publications
 Notes
 ======
 * [Formal_Schemes_and_Formal_Groups.pdf](https://Wuyf19970105.github.io/files/Formal_Schemes_and_Formal_Groups.pdf)
+* [Group_Actions_on_K(1)-Local_E_Theory](https://Wuyf19970105.github.io/files/Group_actions_on_K(1)-local_E_theory.pdf)
 
 Presentations
 ======
