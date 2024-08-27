@@ -12,7 +12,7 @@ My advisor is [Yifei Zhu](https://yifeizhu.github.io/).
 
 My research interests are in algebraic topology and its connections with other fields. Specifically, I'm interested in chromatic homotopy theory, especially the 
 transchromatic phenomenons and their interpretations in terms of formal groups and p-divisible groups. I also take an interest in elliptic curves and modular forms,
-since they play crucial roles both conceptually and computationally when the chromatic height is less than 2.
+since they play crucial roles both conceptually and computationally when the chromatic height is less than or equall to 2.
 
 Besides, I'm interested in the language of infinity categories and higher algebra
 and applied algebraic topology as well, such as topological data analysis.
@@ -59,10 +59,10 @@ Presentations
 
 Teaching
 ======
-* Grader for [M8021](https://yifeizhu.github.io/8021/2024/)(Algebraic Topology), SUSTech, Spring 2024.
-* Teaching Assistant for MA213-16(Mathematical Analysis), SUSTech, Fall 2023.
-* Teaching Assistant for MA113(Linear Algebra), SUSTech, Fall 2022.
-* Grader for MAT8024(Differential Manifolds), SUSTech, Fall 2021.
+* Grader for [M8021](https://yifeizhu.github.io/8021/2024/) (Algebraic Topology), SUSTech, Spring 2024.
+* Teaching Assistant for MA213-16 (Mathematical Analysis), SUSTech, Fall 2023.
+* Teaching Assistant for MA113 (Linear Algebra), SUSTech, Fall 2022.
+* Grader for MAT8024 (Differential Manifolds), SUSTech, Fall 2021.
 
 A photo of my guitar performance<br>
 ![Editing a markdown file for a talk](/images/bm1.jpg#pic_center)
