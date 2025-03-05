@@ -39,14 +39,13 @@ Work Experience
 
 Publications
 ======
-
+* [Power Operations on K(n-1)-Localized Morava E-Theory at Height n](https://Wuyf19970105.github.io/files/CHT&PO.pdf), Submitted
 
 Notes
 ======
 * [Formal_Schemes_and_Formal_Groups.pdf](https://Wuyf19970105.github.io/files/Formal_Schemes_and_Formal_Groups.pdf)
 * [Group_Actions_on_K(1)-Local_E_Theory.pdf](https://Wuyf19970105.github.io/files/Group_actions_on_K(1)-local_E_theory.pdf)
 * [Good_Groups_and_Generalizations.pdf](https://Wuyf19970105.github.io/files/Good_Groups_and_Generalizations.pdf)
-* [Power Operation on K(n-1)-Localized E_n.pdf](https://Wuyf19970105.github.io/files/Power_LE.pdf)
 * Master Thesis, [Computational Methods in Algebraic Topology.pdf](https://Wuyf19970105.github.io/files/Compute_AT.pdf)
 
 Presentations
